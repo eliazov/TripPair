@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600825826355",
+    "firebase_url": "https://trippair-af4c6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "trippair-af4c6",
+    "storage_bucket": "trippair-af4c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600825826355:android:9f93577f0958ab67b16746",
+        "android_client_info": {
+          "package_name": "com.example.trippair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600825826355-0bs8j02mdde518qrcuj3ojc9c9frqm6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFZF59l6SrleZ8_z9Zx5pthVnUK9UaSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600825826355-0bs8j02mdde518qrcuj3ojc9c9frqm6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
